@@ -9,3 +9,6 @@
 [Best First Search](https://javib94.github.io/artificial_intelligence_js/04_bestfirst.html)
 
 [AStar Search](https://javib94.github.io/artificial_intelligence_js/05_astar.html)
+
+
+[Certificado Python y Javascript](https://javib94.github.io/artificial_intelligence_js/Certificados201213619.html)
